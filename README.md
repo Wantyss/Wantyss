@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="./banner.png" alt="Wanty" width="100%" />
+</div>
 
 # Привет, я Wanty °˖✧◝(⁰▿⁰)◜✧˖° 
 
